@@ -13,3 +13,5 @@ The specific objectives are:
   i. To predict the probability of new customers churning
   
   ii. To suggest ways of retaining customers and meeting their needs.
+
+  After the analysis of the data a presentation was made to summarise all that was done.
